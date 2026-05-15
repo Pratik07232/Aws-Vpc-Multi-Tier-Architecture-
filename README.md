@@ -31,11 +31,7 @@ The architecture includes:
 
 (Add your architecture image here)
 
-Example:
-
-![Architecture](screenshots/AWS VPC Architecture .png)
-
-![Architecture](screenshots/AWS VPC Multi-tier Architecture .png)
+![Architecture](screenshots/VPC%20multi-tier%20architecture.png)
 
 ---
 
