@@ -33,7 +33,8 @@ The architecture includes:
 
 Example:
 
-![Architecture](architecture.png)
+![Architecture](screenshots/AWS VPC Architecture .png)
+![Architecture](screenshots/AWS VPC Multi-tier Architecture .png)
 
 ---
 
@@ -150,4 +151,4 @@ GitHub:
 https://github.com/Pratik07232
 
 LinkedIn:
-https://linkedin.com/in/pratikgadekar
+https://www.linkedin.com/in/pratik-gadekar-a1745731b
